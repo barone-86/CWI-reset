@@ -1,0 +1,53 @@
+Exercício:
+Descreva um algoritmo para representar sua rotina matinal, a partir do momento em que você acorda. Use ao menos duas vezes a expressão Se ... Então ....
+
+Caso queira ir um pouco além do que foi apresentado no vídeo, tente incluir as instruções Se ... Então ... Senão ... e Enquanto ....
+
+Não há resposta certa ou errada. 😉
+
+RESPOSTA:
+
+Ao acordar pela manhã
+ao abrir os olhos
+consultar o horário no relógio de pulso
+
+SE for um dia útil
+
+E SE for antes 7h00 ou menos 
+ENTÃO eu fecho os olhos e tento voltar a dormir
+
+E SE for um horário entre 7h00 e 7h30 
+ENTÃO eu permaneço acordada e deitada consultando o relógio a cada 5 minutos até chegar as 7h30
+
+E SE o relógio marcar 7h30 eu levanto
+ENTÃO caminho até o quarto da minha filha, pego ela no berço, troco a fralda, ofereço o mamá
+caminho até a sala e deixo ela aos cuidados da babá
+
+volto para o quarto
+separo a toalha de banho
+entro no banheiro
+lavo o rosto
+escovo os dentes
+tomo banho
+escolho uma roupa de ir ao trabalho
+me visto 
+vou trabalhar
+
+
+SENÃO for um dia útil
+
+SE a casa estiver silenciosa eu volto a dormir 
+E SE a minha filha chamar "Mamãe" do seu berço
+ENTÃO caminho até o quarto da minha filha, pego ela no berço, troco a fralda, ofereço o mamá
+caminho com ela até a cozinha, preparo e ofereço o café da manhã
+
+ENQUANTO ela come e brinca
+volto para o quarto
+separo a toalha de banho
+entro no banheiro
+lavo o rosto
+escovo os dentes
+tomo banho
+escolho uma roupa de ficar em casa
+me visto 
+vou até a sala brincar
